@@ -2,4 +2,9 @@
 
 .DS_Store
 
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
 __pycache__
