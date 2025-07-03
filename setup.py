@@ -11,8 +11,8 @@ setup(
         "langchain-community==0.3.26",
         "langchain-openai==0.3.12",
         "langgraph==0.3.24",
-        "chromadb==1.0.0",
         "python-dotenv==1.1.0",
-        "tiktoken==0.9.0"
+        "tiktoken==0.9.0",
+        "chromadb==1.0.0"
     ],
 )
