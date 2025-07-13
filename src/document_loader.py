@@ -5,27 +5,38 @@ from langchain_community.document_loaders import TextLoader
 from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings
 
+# ----------------------------
+# Global Configuration
+# ----------------------------
+
+# Regex to match article headers (e.g., "ARTÍCULO 5")
 HEADER_PATTERN = re.compile(
     r"^(?:ART[IÍ]CULO)\s+\d+[^\w]*?(?=[A-ZÁÉÍÓÚÑ])",
     flags=re.DOTALL | re.IGNORECASE
 )
 
+# Regex to extract article numbers
 ARTICLE_PATTERN = re.compile(
-    r'(?:ART[IÍ]CULO)\s+(\d+)', re.IGNORECASE
+    r"(?:ART[IÍ]CULO)\s+(\d+)", re.IGNORECASE
 )
 
+# Text splitter configuration for chunking
 TEXT_SPLITTER = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
     chunk_size=300,
     chunk_overlap=50
 )
 
+# OpenAI embedding model instance
 EMBEDDING_MODEL = OpenAIEmbeddings()
 
+# ----------------------------
+# Helper Functions
+# ----------------------------
 
 def clean_section_text(text):
     """
-    Remove the article header (e.g., 'Artículo 5') and everything until
-    the next uppercase letter.
+    Removes the article header (e.g., 'Artículo 5') from the given text,
+    preserving the actual content starting from the next uppercase letter.
     """
     cleaned_text = HEADER_PATTERN.sub("", text, count=1)
     return cleaned_text.strip()
@@ -33,21 +44,23 @@ def clean_section_text(text):
 
 def extract_article_sections(text):
     """
-    Extract article sections with their numbers, cleaning headers.
-    Returns list of (cleaned_text, article_number).
+    Extracts article sections from the full text.
+
+    Returns:
+        List of tuples (cleaned_text, article_number)
     """
     article_sections = []
     matches = list(ARTICLE_PATTERN.finditer(text))
     total_matches = len(matches)
 
     if total_matches == 0:
-        return article_sections  # If there are no items, returns an empty list
+        return article_sections  # No matches found
 
     for idx, match in enumerate(matches):
         start_pos = match.start()
         article_num = match.group(1)
 
-        # Determines the end: next article or end of the text
+        # Determine end position: either next article or end of text
         end_pos = matches[idx + 1].start() if idx + 1 < total_matches else len(text)
 
         section_text = text[start_pos:end_pos]
@@ -57,19 +70,28 @@ def extract_article_sections(text):
 
     return article_sections
 
+# ----------------------------
+# Main Processing Function
+# ----------------------------
 
 def load_and_process_document(file_path):
     """
-    Load and process a document, returning a vector store.
-    """
+    Loads a text document and processes it into a vector store
+    by splitting into article-based chunks and generating embeddings.
 
-    # Load the document
+    Args:
+        file_path (str): Path to the input text file.
+
+    Returns:
+        Chroma vector store instance for semantic search.
+    """
+    # Load document content
     text = TextLoader(file_path).load()[0].page_content
 
-    # Extract sections by article
+    # Extract article-based sections
     article_sections = extract_article_sections(text)
 
-    # Generate snippets with metadata
+    # Split sections into smaller documents with metadata
     splits = [
         doc
         for section_text, article_num in article_sections
@@ -82,5 +104,5 @@ def load_and_process_document(file_path):
         )
     ]
 
-    # Creates the vector index
+    # Build and return vector index
     return Chroma.from_documents(splits, EMBEDDING_MODEL)

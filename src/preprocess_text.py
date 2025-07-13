@@ -1,16 +1,20 @@
 import os
 
+# -------------------------------------
+# Helper Functions
+# -------------------------------------
+
 def is_all_caps(line):
     """
-    Check if a line is in all uppercase (after stripping).
+    Returns True if the line is fully uppercase, ignoring whitespace.
+    Useful for detecting headers or article titles.
     """
     return line.strip().isupper()
 
-
-
 def join_lines(current_line, next_line):
     """
-    Determine whether the current line should be joined with the next one.
+    Determines whether the current_line should be joined with next_line.
+    This logic aims to remove unnecessary line breaks while preserving structure.
     """
     return (
         is_all_caps(current_line) or
@@ -21,28 +25,33 @@ def join_lines(current_line, next_line):
         next_line.replace('"', '')[:1].isupper()
     )
 
-
-
 def preprocess_text_lines(lines):
     """
-    Clean and join lines based on rules to improve structure and readability.
+    Iterates through the lines of a text and joins or separates them based
+    on formatting rules, improving the structure and flow of the content.
     """
     processed_lines = []
+
     for i, current_line in enumerate(lines):
         current_line = current_line.strip()
         next_line = lines[i + 1].strip() if i + 1 < len(lines) else ''
 
+        # Decide whether to join lines or add a line break
         if join_lines(current_line, next_line):
             processed_lines.append(current_line + '\n')
         else:
             processed_lines.append(current_line + ' ')
+
     return processed_lines
 
-
+# -------------------------------------
+# Main Preprocessing Function
+# -------------------------------------
 
 def preprocess_file(input_path, output_dir="data"):
     """
-    Read a text file, process its lines to remove unwanted breaks, and save the result.
+    Loads a text file, preprocesses its content to clean formatting issues
+    (like unwanted line breaks), and writes the result to a new file.
     """
     if not os.path.isfile(input_path):
         raise FileNotFoundError(f"Input file not found: {input_path}")
@@ -60,7 +69,9 @@ def preprocess_file(input_path, output_dir="data"):
     with open(output_path, 'w', encoding='utf-8') as outfile:
         outfile.write(cleaned_text)
 
-
+# -------------------------------------
+# Entry Point (Script Execution)
+# -------------------------------------
 
 if __name__ == "__main__":
     input_path = "data/ley-769-de-2002-codigo-nacional-de-transito.txt"

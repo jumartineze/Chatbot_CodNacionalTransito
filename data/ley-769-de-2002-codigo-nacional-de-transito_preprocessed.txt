@@ -193,7 +193,7 @@ PARÁGRAFO 2o. Los cuerpos especializados de Policía de tránsito urbano y
 Policía de Carreteras de la Policía Nacional y los cuerpos especializados de agentes de policía de tránsito dependientes de los organismos de tránsito departamental, metropolitano, distrital y municipal, deberán acreditar formación técnica o tecnológica en la materia.
 ARTÍCULO 5°. DEMARCACIÓN Y SEÑALIZACIÓN VIAL. El Ministerio de
 Transporte reglamentará en un término no mayor de 60 días posteriores a la sanción de esta ley, las características técnicas de la demarcación y señalización de toda la infraestructura vial y su aplicación y cumplimiento será responsabilidad de cada uno de los organismos de tránsito en su respectiva jurisdicción.
-De igual manera el Ministerio de Transporte reglamentará en un término no mayor de 60 días calendario posteriores a la sanción de esta ley, todo lo referente a la ubicación y colocación de vallas publicitarias y promocionales, letreros y avisos, 
+De igual manera el Ministerio de Transporte reglamentará en un término no mayor de 60 días calendario posteriores a la sanción de esta ley, todo lo referente a la ubicación y colocación de vallas publicitarias y promocionales, letreros y avisos,
 sus características y medidas de tal manera que no afecten la visibilidad y concentración del conductor, conforme a lo dispuesto en la Ley 140 de 1994.
 Reglamentado por la Resolución Nacional 19341 de 2002
 PARÁGRAFO 1o. El Ministerio de Transporte respetará y acogerá los convenios internacionales que se hayan suscrito o se suscriban en relación con la reglamentación de la ubicación, instalación, demarcación y señalización vial.
@@ -217,7 +217,7 @@ PARÁGRAFO 2o. La Policía Nacional reglamentará el funcionamiento de la
 Seccional de Formación y Especialización en Seguridad Vial, de sus cuerpos especializados de policía urbana de tránsito y policía de carreteras, como instituto docente con la facultad de expedir títulos de idoneidad en esta área, en concordancia con la Ley 115 de 1994.
 PARÁGRAFO 3o. El Ministerio de Transporte contribuirá al desarrollo y funcionamiento de la Escuela Seccional de Formación y Especialización en
 Seguridad Vial.
-PARÁGRAFO 4o. Los organismos de tránsito podrán celebrar contratos y/o convenios con los cuerpos especializados de policía urbana de tránsito mediante contrato especial pagado por los distritos, municipios y departamentos y celebrado 
+PARÁGRAFO 4o. Los organismos de tránsito podrán celebrar contratos y/o convenios con los cuerpos especializados de policía urbana de tránsito mediante contrato especial pagado por los distritos, municipios y departamentos y celebrado
 con la Dirección General de la Policía. Estos contratos podrán ser temporales o permanentes, con la facultad para la policía de cambiar a sus integrantes por las causales establecidas en el reglamento interno de la institución policial. Ver el
 Concepto del Consejo de Estado 1826 de 2007
 CAPITULO III
@@ -250,7 +250,7 @@ Ministerio para el Ingreso de datos y la expedición de certificados de informac
 Texto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-532 de 2003 , salvo el texto resaltado que se declaró
 INEXEQUIBLE.
 El Ministerio de Transporte tendrá un plazo máximo de dos (2) años prorrogables por una sola vez por un término de un (1) año contados a partir de la fecha de sanción de esta ley para poner en funcionamiento al público el RUNT.
-Ver la Ley 1005 de 2006 
+Ver la Ley 1005 de 2006
 ARTÍCULO 10. SISTEMA INTEGRADO DE INFORMACIÓN SOBRE LAS
 MULTAS Y SANCIONES POR INFRACCIONES DE TRÁNSITO. Con el propósito de contribuir al mejoramiento de los ingresos de los municipios, se autoriza a la
 Federación Colombiana de Municipios para implementar y mantener actualizado a nivel nacional, un sistema integrado de información sobre las multas y sanciones por infracciones de tránsito (SIMIT), por lo cual percibirá el 10% por la administración del sistema cuando se cancele el valor adeudado. En ningún caso podrá ser inferior a medio salario mínimo diario legal vigente.
@@ -313,7 +313,7 @@ Para vehículos de servicio público:
 Los mismos requisitos enumerados anteriormente, a excepción de la edad mínima que será de 18 años cumplidos y de los exámenes teórico-prácticos, de aptitud física y mental o los certificados de aptitud de conducción expedidos que estarán referidos a la conducción de vehículo de servicio público.
 PARÁGRAFO. Para obtener la licencia de conducción por primera vez, o la recategorización y/o refrendación de la misma, se debe demostrar ante las autoridades de tránsito la aptitud física, mental y de coordinación motriz, valiéndose para su valoración de los medios tecnológicos sistematizados y digitalizados requeridos, que permitan medir y evaluar dentro de los rangos establecidos por el Ministerio de Transporte según los parámetros y límites internacionales entre otros: las capacidades de visión y orientación auditiva, la agudeza visual y campimetría, los tiempos de reacción y recuperación al encandilamiento, la capacidad de coordinación entre la aceleración y el frenado, la coordinación integral motriz de la persona, la discriminación de colores y la phoria horizontal y vertical.
 Ver Resolución Min. Transporte 6365 de 2002
-ARTÍCULO 20. El Ministerio de Transporte definirá mediante resolución las categorías de licencias de conducción y recategorizaciones, lo mismo que las restricciones especiales que deben tenerse en cuenta para la expedición de las 
+ARTÍCULO 20. El Ministerio de Transporte definirá mediante resolución las categorías de licencias de conducción y recategorizaciones, lo mismo que las restricciones especiales que deben tenerse en cuenta para la expedición de las
 licencias según cada categoría. Ver la Resolución del Min. Transporte 1500 de 2005
 ARTÍCULO 21. LIMITADOS FÍSICOS. Quien padezca una limitación física parcial podrá obtener la licencia de conducción si, además del cumplimiento de los requisitos que en este Código se señalan, demuestra durante el examen indicado en el parágrafo único del artículo 18, que se encuentra habilitado y adiestrado para conducir con dicha limitación.
 Cuando se requiera el empleo de instrumentos ortopédicos y el vehículo esté provisto de mecanismos u otros medios auxiliares que previa demostración y constatación le capaciten para el ejercicio de la conducción, bajo su propia responsabilidad, también podrá obtener la licencia para manejar vehículos de servicio público, pero únicamente de servicio individual.
@@ -415,7 +415,7 @@ Número de identificación vehicular (VIN).
 PARÁGRAFO. Las nuevas licencias deberán permitir al organismo de tránsito confrontar la identidad del respectivo titular de conformidad con las normas de la ley vigente sobre la materia.
 El Ministerio de Transporte determinará las especificaciones y características que deberá tener el Número de Identificación Vehicular VIN.
 ARTÍCULO 39. MATRÍCULAS Y TRASLADOS DE CUENTA. Todo vehículo será matriculado ante un organismo de tránsito ante el cual cancelará los derechos de matrícula y pagará en lo sucesivo los impuestos del vehículo.
-El propietario de un vehículo podrá solicitar el traslado de los documentos de un organismo de tránsito a otro sin costo alguno, y será ante el nuevo organismo de 
+El propietario de un vehículo podrá solicitar el traslado de los documentos de un organismo de tránsito a otro sin costo alguno, y será ante el nuevo organismo de
 tránsito que el propietario del vehículo pagará en adelante los impuestos del vehículo.
 PARÁGRAFO 1o. El domicilio donde el organismo de tránsito ante el cual se encuentren registrados los papeles de un vehículo será el domicilio fiscal del vehículo.
 ARTÍCULO 40. CANCELACIÓN. La licencia de tránsito de un vehículo se cancelará a solicitud de su titular por destrucción total del vehículo, pérdida definitiva, exportación o reexportación, hurto o desaparición documentada sin que se conozca el paradero final del vehículo, previa comprobación del hecho por parte de la autoridad competente.
@@ -535,7 +535,7 @@ ARTÍCULO 63. RESPETO A LOS DERECHOS DE LOS PEATONES. Los conductores de vehícu
 ARTÍCULO 64. CESIÓN DE PASO EN LA VÍA A VEHÍCULOS DE
 EMERGENCIA. Todo conductor debe ceder el paso a los vehículos de ambulancias, cuerpo de bomberos, vehículos de socorro o emergencia y de la policía o ejército orillándose al costado derecho de la calzada o carril y deteniendo el movimiento del vehículo, cuando anuncien su presencia por medio de luces, sirenas, campanas o cualquier señal óptica o audible. En todo caso los vehículos de emergencia deben reducir la velocidad y constatar que les han cedido el derecho de paso al cruzar una intersección.
 PARÁGRAFO. En calzadas de tres (3) carriles, deberá procurarse despejar, como mínimo, el carril del medio para el paso de estos vehículos. Si tiene más de tres (3), se despejará el siguiente al del carril más rápido, o por donde lo haya demarcado la autoridad de tránsito mediante señalización especial. En todo caso se permitirá el paso.
-Ver el art. 99, Acuerdo Distrital 79 de 2003 
+Ver el art. 99, Acuerdo Distrital 79 de 2003
 ARTÍCULO 65. UTILIZACIÓN DE LA SEÑAL DE PARQUEO. Todo conductor, al detener su vehículo en la vía pública, deberá utilizar la señal luminosa intermitente que corresponda, orillarse al lado derecho de la vía y no efectuar maniobras que pongan en peligro a las personas o a otros vehículos.
 ARTÍCULO 66. GIROS EN CRUCE DE INTERSECCIÓN. El conductor que transite por una vía sin prelación deberá detener completamente su vehículo al llegar a un cruce y donde no haya semáforo tomará las precauciones debidas e iniciará la marcha cuando le corresponda.
 En ningún caso el conductor podrá detener su vehículo sobre la vía férrea, un paso peatonal o una intersección o un carril exclusivo, paralelo preferencial de alimentadores o compartidos con los peatonales, pertenecientes al STTMP. Todo conductor deberá permanecer a una distancia mínima de cinco (5) metros de la vía férrea.
@@ -560,7 +560,7 @@ PARÁGRAFO 2o. Se prohíbe el tránsito de motocicletas y motociclos por las cic
 ARTÍCULO 69. RETROCESO EN LAS VÍAS PÚBLICAS. No se deben realizar maniobras de retroceso en las vías públicas, salvo en casos de estacionamiento o emergencia.
 Los vehículos automotores no deben transitar sobre las aceras y zonas de seguridad, salvo en el caso de entrada a garajes o sitios de estacionamiento, evento en el cual respetarán la prelación de los peatones que circulan por las aceras o andenes.
 PARÁGRAFO. El conductor no debe detener o estacionar su vehículo, por ningún motivo, dentro de la zona destinada al tránsito de peatones.
-ARTÍCULO 70. PRELACIÓN EN INTERSECCIONES O GIROS. Normas de prelación en intersecciones y situaciones de giros en las cuales dos (2) o más vehículos puedan interferir: 
+ARTÍCULO 70. PRELACIÓN EN INTERSECCIONES O GIROS. Normas de prelación en intersecciones y situaciones de giros en las cuales dos (2) o más vehículos puedan interferir:
 Cuando dos (2) o más vehículos transiten en sentido contrario por una vía de doble sentido de tránsito e intenten girar al mismo lado, tiene prelación el que va a girar a la derecha; en las pendientes, tiene prelación el vehículo que sube.
 En intersecciones no señalizadas, salvo en glorietas, tiene prelación el vehículo que se encuentre a la derecha.
 Si dos (2) o más vehículos que transitan en sentido opuesto llegan a una intersección y uno de ellos va a girar a la izquierda, tiene prelación el vehículo que va a seguir derecho.
@@ -637,7 +637,7 @@ Ministerio de Transporte.
 ARTÍCULO 85. APROVISIONAMIENTO DE COMBUSTIBLE. El aprovisionamiento de combustible a los vehículos debe hacerse con el motor apagado.
 Los conductores de vehículos de servicio público de radio de acción nacional y los de transporte especial y escolar, al aprovisionarse de combustible deberán hacer descender a los pasajeros. Los vehículos de servicio público colectivo de radio de acción metropolitano, distrital o municipal, no podrán aprovisionar combustible mientras que estén prestando el servicio.
 Los conductores de servicio público no deben, en ninguna circunstancia, abandonar el vehículo dejando los pasajeros dentro de él.
-ARTÍCULO 86. DE LAS LUCES EXTERIORES. Todo vehículo automotor deberá tener encendidas las luces exteriores a partir de las dieciocho (18) horas hasta las seis (6) horas del día siguiente, y cuando las condiciones de visibilidad sean adversas. Sin embargo, las autoridades de tránsito podrán fijar horarios de excepción. Ver la Resolución del Min. Transporte 2730 de 2004 
+ARTÍCULO 86. DE LAS LUCES EXTERIORES. Todo vehículo automotor deberá tener encendidas las luces exteriores a partir de las dieciocho (18) horas hasta las seis (6) horas del día siguiente, y cuando las condiciones de visibilidad sean adversas. Sin embargo, las autoridades de tránsito podrán fijar horarios de excepción. Ver la Resolución del Min. Transporte 2730 de 2004
 Dentro del perímetro urbano se usará la luz media, y se podrá hacer uso de luces exploradoras orientados sólo hacia la superficie de la vía, cuando éstas estén colocadas por debajo de las defensas del vehículo o cuando se trate de unidades integradas por el fabricante en el conjunto de luces frontales del vehículo. Fuera del perímetro urbano, podrá usarse la luz plena o alta, excepto cuando se aproxime un vehículo en sentido contrario o cuando la autoridad lo indique mediante la señal de tránsito correspondiente, o cuando la luz plena alcance un vehículo que transite adelante y pueda perturbar su conducción.
 PARÁGRAFO. Ningún vehículo podrá portar luces exploradoras en la parte posterior.
 CAPITULO IV.
@@ -678,7 +678,7 @@ No podrán llevar acompañante excepto mediante el uso de dispositivos diseñado
 Cuando circulen en horas nocturnas, deben llevar dispositivos en la parte delantera que proyecten luz blanca, y en la parte trasera que reflecte luz roja.
 PARÁGRAFO. Los Alcaldes Municipales podrán restringir temporalmente los días domingos y festivos, el tránsito de todo tipo de vehículos por las vías nacionales o departamentales que pasen por su jurisdicción, a efectos de promover la práctica de actividades deportivas tales como el ciclismo, el atletismo, el patinaje, las caminatas y similares, así como, la recreación y el esparcimiento de los habitantes de su jurisdicción, siempre y cuando haya una vía alterna por donde dichos vehículos puedan hacer su tránsito normal.
 ARTÍCULO 96. NORMAS ESPECÍFICAS PARA MOTOCICLETAS,
-MOTOCICLOS Y MOTOTRICICLOS. Las motocicletas se sujetarán a las siguientes normas específicas: 
+MOTOCICLOS Y MOTOTRICICLOS. Las motocicletas se sujetarán a las siguientes normas específicas:
 1. Podrán llevar un acompañante en su vehículo, el cual también deberá utilizar casco y elementos de seguridad.
 2. Deberán usar de acuerdo con lo estipulado para vehículos automotores, las luces direccionales.
 3. Cuando transiten por las vías de uso público deberán hacerlo con las luces delanteras y traseras encendidas.
@@ -726,7 +726,7 @@ Se prohíbe el uso de sirenas en vehículos particulares; el uso de cornetas en 
 CAPITULO X.
 CLASIFICACIÓN Y USO DE LAS VÍAS.
 ARTÍCULO 105. CLASIFICACIÓN DE VÍAS. Para efectos de determinar su prelación, las vías se clasifican así: 1. Dentro del perímetro urbano:
-Vía de metro o metrovía 
+Vía de metro o metrovía
 Vía troncal
 Férreas
 Autopistas
@@ -747,7 +747,7 @@ Carreteables
 Privadas
 Peatonales.
 La presencia de peatones en las vías y zonas para ellos diseñadas, les otorgarán prelación, excepto sobre vías férreas, autopistas y vías arterias.
-La autoridad de tránsito competente, por medio de resolución motivada señalará las categorías correspondientes a las vías urbanas, cualquiera que sea su 
+La autoridad de tránsito competente, por medio de resolución motivada señalará las categorías correspondientes a las vías urbanas, cualquiera que sea su
 denominación. En cualquier caso, las autoridades de tránsito podrán incorporar nuevas categorías y homologar su prioridad con cualquiera de las existentes.
 La prelación entre las vías en zonas rurales será determinada por la autoridad de tránsito competente. Ver la Resolución del Min. Transporte 1848 de 2005
 PARÁGRAFO 1o. Las autoridades de tránsito deberán consultar con las comunidades el uso de las vías cuando no se trate de vías arterias o autopistas, principales y secundarias, para la definición de las rutas de transporte público. Si las juntas administradoras votan negativamente un tramo de una ruta, ésta no se podrá autorizar.
@@ -774,7 +774,7 @@ Señales preventivas: Tienen por objeto advertir al usuario de la vía la existe
 Señales informativas: Tienen por objeto identificar las vías y guiar al usuario, proporcionándole la información que pueda necesitar.
 Señales transitorias: Pueden ser reglamentarias, preventivas o informativas y serán de color naranja. Modifican transitoriamente el régimen normal de utilización de la vía.
 PARÁGRAFO 1o. Las marcas sobre el pavimento constituyen señales de tránsito horizontales. Y sus indicaciones deberán acatarse.
-PARÁGRAFO 2o. Es responsabilidad de las autoridades de tránsito la colocación de las señales de tránsito en los perímetros urbanos inclusive en las vías privadas abiertas al público. Las autoridades locales no podrán ejecutar obras sobre las vías públicas sin permiso especial de las autoridades de tránsito que tendrán la 
+PARÁGRAFO 2o. Es responsabilidad de las autoridades de tránsito la colocación de las señales de tránsito en los perímetros urbanos inclusive en las vías privadas abiertas al público. Las autoridades locales no podrán ejecutar obras sobre las vías públicas sin permiso especial de las autoridades de tránsito que tendrán la
 responsabilidad de regular los flujos de tránsito para que no se presenten congestiones.
 Para la ejecución de toda obra pública que genere congestiones, la autoridad de tránsito local deberá disponer de reguladores de tráfico. Su costo podrá calcularse dentro del valor de la obra y la vigencia de la vinculación podrá hacerse durante el plazo del contrato de obra respectivo.
 ARTÍCULO 111. PRELACIÓN DE LAS SEÑALES. La prelación entre las distintas señales de tránsito será la siguiente:
@@ -848,7 +848,7 @@ Cuando quiera que se infrinjan las prohibiciones, restricciones o regulaciones s
 El agente de vigilancia del tráfico que detecte o advierta una infracción a las normas de emisión de contaminantes o de generación de ruido por vehículos automotores, entregará al presunto infractor una boleta de citación para que el vehículo sea presentado en un centro de diagnóstico para una inspección técnica en un término que no podrá exceder de quince (15) días. En la citación se indicará la modalidad de la presunta infracción que la ocasiona. Esto sin perjuicio de la vigencia del certificado de la obligatoria revisión técnico-mecánica y de gases.
 Realizada la inspección técnica y determinada así la naturaleza de la infracción, el centro de diagnóstico donde aquella se hubiere practicado, entregará al presunto infractor copia del resultado del examen practicado al vehículo y remitirá el original a la autoridad de tránsito competente, para que, previa audiencia del interesado, se imponga la sanción que en cada caso proceda.
 En caso de que el infractor citado no presentare el vehículo para la práctica de la visita de inspección en la fecha y hora señaladas, salvo causal comprobada de fuerza mayor o caso fortuito, las multas a que hubiere lugar se aumentarán hasta en el doble y el vehículo podrá ser inmovilizado por la autoridad de tránsito respectiva, hasta tanto el infractor garantice mediante caución la reparación del vehículo.
-Practicada la inspección técnica, el infractor dispondrá de un término de quince (15) días para reparar el vehículo y corregir la falla que haya sido detectada en el centro de diagnóstico y deberá presentarlo, antes del vencimiento de este nuevo término, para la práctica de una nueva inspección con el fin de determinar que los defectos del vehículo, causantes de la infracción a las normas ambientales, han sido corregidos. Vencido el plazo y practicada la nueva revisión, si el vehículo no 
+Practicada la inspección técnica, el infractor dispondrá de un término de quince (15) días para reparar el vehículo y corregir la falla que haya sido detectada en el centro de diagnóstico y deberá presentarlo, antes del vencimiento de este nuevo término, para la práctica de una nueva inspección con el fin de determinar que los defectos del vehículo, causantes de la infracción a las normas ambientales, han sido corregidos. Vencido el plazo y practicada la nueva revisión, si el vehículo no
 cumple las normas o es sorprendido en circulaci ón en la vía pública, será inmovilizado.
 Cuando la autoridad de tránsito detecte una ostensible y grave violación de las normas ambientales podrá ordenar al infractor la inmediata revisión técnica del vehículo en un centro de diagnóstico autorizado para la práctica de la inspección técnica.
 Si practicada la inspección técnica se establece que el vehículo cumple las normas ambientales, no habrá lugar a la aplicación de multas.
@@ -905,7 +905,7 @@ Transitar por zonas prohibidas.
 Adelantar entre dos (2) vehículos automotores que estén en sus respectivos carriles.
 Conducir por la vía férrea o por zonas de protección y seguridad.
 Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias, en este caso el vehículo automotor será inmovilizado.
-B. Será sancionado con multa equivalente a ocho (8) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que incurra en cualquiera de las siguientes infracciones: 
+B. Será sancionado con multa equivalente a ocho (8) salarios mínimos legales diarios vigentes, el conductor de un vehículo automotor que incurra en cualquiera de las siguientes infracciones:
 Conducir un vehículo sin llevar consigo la licencia de conducción.
 Conducir un vehículo con la licencia de conducción vencida.
 Conducir un vehículo:
@@ -1016,7 +1016,7 @@ ARTÍCULO 134. JURISDICCIÓN Y COMPETENCIA. Los organismos de tránsito conocer�
 PARÁGRAFO. Los daños y perjuicios de mayor y menor cuantía sólo pueden ser conocidos por los jueces civiles de acuerdo a su competencia.
 ARTÍCULO 135. PROCEDIMIENTO. Ante la comisión de una contravención, la autoridad de tránsito debe seguir el procedimiento siguiente para imponer el comparendo:
 Ordenará detener la marcha del vehículo y le extenderá al conductor la orden de comparendo en la que ordenará al infractor presentarse ante la autoridad de tránsito competente dentro de los tres (3) días hábiles siguientes. Al conductor se le entregará copia de la orden de comparendo.
-Si el contraventor no compareciere sin justa causa comprobada en este tiempo, la multa será aumentada hasta por el doble de su valor, en cuyo caso deberá presentarse dentro de los diez (10) días siguientes a la fecha de la 
+Si el contraventor no compareciere sin justa causa comprobada en este tiempo, la multa será aumentada hasta por el doble de su valor, en cuyo caso deberá presentarse dentro de los diez (10) días siguientes a la fecha de la
 infracción.Texto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003, bajo el entendido de que este aparte también es aplicable a los conductores de vehículos de servicio público.
 La orden de comparendo deberá estar firmada por el conductor, siempre y cuando ello sea posible. Si el conductor se niega a firmar o a presentar la licencia, firmará por él un testigo. Contra el informe del agente de tránsito firmado por un testigo solamente procede la tacha de falsedad.
 El Ministerio de Transporte determinará las características del formulario de comparendo único nacional, así como su sistema de reparto. En éste se indicará al conductor que tendrá derecho a nombrar un apoderado si así lo desea y que en la audiencia, para la que se le cite, se decretarán o practicarán las pruebas que solicite. El comparendo deberá además proveer el espacio para consignar la dirección del inculpado o del testigo que lo haya suscrito por éste.
@@ -1026,7 +1026,7 @@ PARÁGRAFO 2o. Los organismos de tránsito podrán suscribir contratos o conveni
 CAPITULO IV.
 ACTUACIÓN EN CASO DE IMPOSICIÓN DE COMPARENDO AL CONDUCTOR
 PARA EL TRANSPORTE PÚBLICO.
-ARTÍCULO 136. REDUCCIÓN DE LA SANCIÓN. Una vez surtida la orden de comparendo, si el inculpado acepta la comisión de la infracción, podrá cancelar el cien por ciento (100%) del valor de la multa dentro de los tres (3) días hábiles siguientes a la orden de comparendo, sin necesidad de otra actuación administrativa. O podrá igualmente cancelar el cincuenta por ciento (50%) del valor de la multa al organismo de tránsito y un veinticinco por ciento (25%) al centro integral de atención al cual estará obligado a ir para tomar un curso en la escuela que allí funciona sobre las normas de tránsito. Pero si, por el contrario, la rechaza, el inculpado deberá comparecer ante el funcionario en audiencia pública para que éste decrete las pruebas conducentes que le sean solicitadas y las de oficio que considere útiles. Si el contraventor no compareciere sin justa causa comprobada en este tiempo, la autoridad de tránsito dentro de los diez (10) días siguientes seguirá el proceso, entendiéndose que queda vinculado al mismo, 
+ARTÍCULO 136. REDUCCIÓN DE LA SANCIÓN. Una vez surtida la orden de comparendo, si el inculpado acepta la comisión de la infracción, podrá cancelar el cien por ciento (100%) del valor de la multa dentro de los tres (3) días hábiles siguientes a la orden de comparendo, sin necesidad de otra actuación administrativa. O podrá igualmente cancelar el cincuenta por ciento (50%) del valor de la multa al organismo de tránsito y un veinticinco por ciento (25%) al centro integral de atención al cual estará obligado a ir para tomar un curso en la escuela que allí funciona sobre las normas de tránsito. Pero si, por el contrario, la rechaza, el inculpado deberá comparecer ante el funcionario en audiencia pública para que éste decrete las pruebas conducentes que le sean solicitadas y las de oficio que considere útiles. Si el contraventor no compareciere sin justa causa comprobada en este tiempo, la autoridad de tránsito dentro de los diez (10) días siguientes seguirá el proceso, entendiéndose que queda vinculado al mismo,
 fallándose en audiencia pública y notificándose en estrados. Texto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003, en el entendido de que este aparte también es aplicable a los conductores de vehículos de servicio público. El resto del texto del inciso fue declarado EXEQUIBLE en la misma Sentncia, bajo el entendido que las garantías allí reguladas también son aplicables a los conductores de vehículos particulares.
 En la misma audiencia, si fuere posible, se practicarán las pruebas y se sancionará o absolverá al inculpado. Si fuere declarado contraventor, se le impondrá el cien por ciento (100%) de la sanción prevista en el código. Inciso declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003, en el entendido que las garantías allí reguladas también son aplicables a los conductores de vehículos particulares.
 Los organismos de tránsito podrán celebrar acuerdos para el recaudo de las multas. Los recursos generados por el cobro de las contravenciones podrán ser distribuidos entre el organismo de tránsito que ejecuta el recaudo, el organismo de tránsito donde se cometió la infracción y por el tercero particular o público en quien éste delegue el recaudo previo descuento del diez por ciento (10%) que se destinará específicamente por el organismo de tránsito que conoció la infracción para campañas de educación vial y peatonal. El pago de la multa podrá efectuarse en cualquier lugar del país.
@@ -1035,7 +1035,7 @@ PARÁGRAFO. En los lugares donde existan inspecciones ambulantes de tránsito, l
 ARTÍCULO 137. INFORMACIÓN. En los casos en que la infracción fuere detectada por medios que permitan comprobar la identidad del vehículo o del conductor el comparendo se remitirá a la dirección registrada del último propietario del vehículo.
 La actuación se adelantará en la forma prevista en el artículo precedente, co n un plazo adicional de seis (6) días hábiles contados a partir del recibo de la comunicación respectiva, para lo cual deberá disponerse de la prueba de la infracción como anexo necesario del comparendo.
 Si no se presentare el citado a rendir sus descargos ni solicitare pruebas que desvirtúen la comisión de la infracción, se registrará la sanción a su cargo en el
-Registro de Conductores e infractores, en concordancia con lo dispuesto por el presente código. Inciso declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003, en el entendido, que sólo se puede culminar la actuación, cuando la administración haya agotado todos los 
+Registro de Conductores e infractores, en concordancia con lo dispuesto por el presente código. Inciso declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-530 de 2003, en el entendido, que sólo se puede culminar la actuación, cuando la administración haya agotado todos los
 medios a su alcance para hacer comparecer al citado y, cuando el propietario no coincida con el conductor, esa citación no implica vinculación alguna. Así mismo, deberá entenderse que la sanción sólo puede imponerse cuando aparezca plenamente comprobado que el citado es el infractor.
 PARÁGRAFO 1o. El respeto al derecho a defensa será materializado y garantizado por los organismos de tránsito, adoptando para uso de sus inculpados y autoridad, herramientas técnicas de comunicación y representación de hechos sucedidos en el tránsito, que se constituyan en medios probatorios, para que en audiencia pública estos permitan sancionar o absolver al inculpado bajo claros principios de oportunidad, transparencia y equidad.
 ARTÍCULO 138. COMPARECENCIA. El inculpado podrá comparecer por sí mismo, pero si designa apoderado éste deberá ser abogado en ejercicio. El
@@ -1106,7 +1106,7 @@ ACTUACIÓN EN CASO DE EMBRIAGUEZ
 ARTÍCULO 150. EXAMEN. Las autoridades de tránsito podrán solicitar a todo conductor de vehículo automotor la práctica de examen de embriaguez, que permita determinar si se encuentra bajo efectos producidos por el alcohol o las drogas, o sustancias estupefacientes, alucinógenas o hipnóticas.
 Las autoridades de tránsito podrán contratar con clínicas u hospitales la práctica de las pruebas de que trata este artículo, para verificar el estado de aptitud de los conductores.
 PARÁGRAFO. En los centros integrales de atención se tendrá una dependencia para practicar las pruebas anteriormente mencionadas.
-ARTÍCULO 151. SUSPENSIÓN DE LICENCIA. Quien cause lesiones u homicidios en accidente de tránsito y se demuestre que actuó bajo cualquiera de los estados de embriaguez de que trata este código, o que injustificadamente abandone el lugar de los hechos, a más de las sanciones previstas en el Código 
+ARTÍCULO 151. SUSPENSIÓN DE LICENCIA. Quien cause lesiones u homicidios en accidente de tránsito y se demuestre que actuó bajo cualquiera de los estados de embriaguez de que trata este código, o que injustificadamente abandone el lugar de los hechos, a más de las sanciones previstas en el Código
 Penal, se hará acreedor a la suspensión de su licencia por el término de cinco (5) años.
 ARTÍCULO 152. GRADO DE ALCOHOLEMIA. En un término no superior a 30 días contados a partir de la expedición de la presente ley, el Instituto Nacional de
 Medicina Legal y Ciencias Forenses mediante resolución establecerá los límites de los diferentes grados de estado de embriaguez.
@@ -1148,7 +1148,7 @@ ARTÍCULO 162. COMPATIBILIDAD Y ANALOGÍA. Las normas contenidas en el
 Código Contencioso Administrativo, Código Penal, Código de Procedimiento Penal y Código de Procedimiento Civil, serán aplicables a las situaciones no reguladas por el presente código, en cuanto no fueren incompatibles y no hubiere norma prevista para el caso en análisis.
 ARTÍCULO 163. NORMA APLICABLE. Las actuaciones en curso continuarán sujetas a las disposiciones con base en las cuales se iniciaron.
 ARTÍCULO 164. FACILIDADES. Las autoridades de tránsito a que se refiere el presente código, adoptarán las medidas requeridas para que los usuarios de los servicios puedan cumplir con las obligaciones que les correspondan desde cualquier otro lugar en que se encuentre, cuando ello fuere procedente.
-ARTÍCULO 165. PRESUPUESTO. Autorízase al Gobierno Nacional y a las autoridades locales de tránsito para adoptar las medidas presupuestales que 
+ARTÍCULO 165. PRESUPUESTO. Autorízase al Gobierno Nacional y a las autoridades locales de tránsito para adoptar las medidas presupuestales que
 fueren necesarias para dar cumplimiento a lo que en este Código se dispone y para difundir su contenido y alcance.
 ARTÍCULO 166. VIDRIOS OSCUROS. Reglamentado por la Resolución del Min.
 Transporte 3777 de 2003. El Ministerio de Transporte definirá lo atinente a la circulación de vehículos que posean vidrios oscuros de fabricación.
@@ -1179,5 +1179,3 @@ Juan Mayr Maldonado.
 El Ministro de Transporte,
 Gustavo Adolfo Canal Mora.
 NOTA: Publicada en el Diario Oficial 44.893 de Agosto 07 de 2002 y en el 44.932 de septiembre 13 de 2002 (esta última publicación, se realizó por errores de transcripción en el Diario Oficial inicial).
-
-
