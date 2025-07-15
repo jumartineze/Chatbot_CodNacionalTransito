@@ -86,7 +86,7 @@ def load_and_process_document(file_path):
         Chroma vector store instance for semantic search.
     """
     # Load document content
-    text = TextLoader(file_path).load()[0].page_content
+    text = TextLoader(file_path, encoding="utf-8").load()[0].page_content
 
     # Extract article-based sections
     article_sections = extract_article_sections(text)
