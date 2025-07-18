@@ -71,11 +71,7 @@ bash setup.sh
 
 ### 4. Configure environment variables
 
-Create a `.env` file using the example provided:
-
-```bash
-cp .env.example .env
-```
+Create a `.env` file.
 
 Fill in your API keys inside `.env`:
 
@@ -116,13 +112,13 @@ You can try asking the assistant:
 
 ---
 
-## 📄 License
+## 👤 Authors
 
-[MIT License](LICENSE)
+**Valentina Tamayo Guarín**
+[vatamayog@unal.edu.co](mailto:vatamayog@unal.edu.co)
 
----
+**Juan Manuel Sánchez Restrepo**
+[jsanchezre@unal.edu.co](mailto:jsanchezre@unal.edu.co)
 
-## 👤 Author
-
-**Your Name**
-[your.email@example.com](mailto:your.email@example.com)
+**Juan Pablo Martínez Echavarría**
+[jumartineze@unal.edu.co](mailto:jumartineze@unal.edu.co)
